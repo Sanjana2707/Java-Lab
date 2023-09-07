@@ -36,7 +36,7 @@ public class Binary_search {
     	 System.out.println("enter the size of the array");
     	 int r=sc.nextInt();
     	 int a[]=new int[r];
-    	 System.out.println("enter th eelements of the array");
+    	 System.out.println("enter the elements of the array");
     	 for(int i=0;i<a.length;i++) {
     		 a[i]=sc.nextInt();
     	 }
